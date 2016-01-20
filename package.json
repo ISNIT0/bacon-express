@@ -1,21 +1,25 @@
 {
-  "name": "bacon-express",
-  "version": "1.0.0",
-  "description": "Link Bacon streams over the network",
-  "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Joe Reeve",
-  "license": "Unlicense",
-  "devDependencies": {
-    "babel-preset-es2015": "^6.3.13",
-    "gulp": "^3.9.0",
-    "gulp-babel": "^6.1.1"
-  },
-  "dependencies": {
-    "baconjs": "^0.7.83",
-    "express": "^4.13.3",
-    "express-ws": "^0.2.6"
-  }
+    "name": "bacon-express",
+    "version": "1.0.0",
+    "description": "Link Bacon streams over the network",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/isnit0/bacon-express.git"
+    },
+    "author": "Joe Reeve",
+    "license": "Unlicense",
+    "devDependencies": {
+        "babel-preset-es2015": "^6.3.13",
+        "gulp": "^3.9.0",
+        "gulp-babel": "^6.1.1"
+    },
+    "dependencies": {
+        "baconjs": "^0.7.83",
+        "express": "^4.13.3",
+        "express-ws": "^0.2.6"
+    }
 }
