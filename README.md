@@ -9,7 +9,7 @@ npm i bacon-express
 
 #### Browser
 ```html
-<script src='' type='text/javascript'></script>
+<script src='https://github.com/ISNIT0/bacon-express/blob/master/dist/client.js' type='text/javascript'></script>
 ```
 
 ### Usage
