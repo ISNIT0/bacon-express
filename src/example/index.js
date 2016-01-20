@@ -1,3 +1,3 @@
-let events = Bacon.fromWebsocket('ws://localhost:1337/events');
+let events = Bacon.fromWebsocket('/events');
 
 events.onValue((a) => console.log(a));
